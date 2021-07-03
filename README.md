@@ -2,10 +2,15 @@
 ## Spam mail classification using Naive Bayes Classifier 
 
 ### Process 1
-sup
+Purification(one message)
+{
+
+}
 ### Process 2
+DatasetMining
 
 ### Process 3
+HandlingMultipleOccurances
 
 ### Process 4
 
