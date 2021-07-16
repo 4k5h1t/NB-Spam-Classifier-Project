@@ -1,6 +1,5 @@
 clc
 M = readtable('lingSpam.csv');
-data = [];
 X_train_class_1 = [];
 X_train_class_0 = [];
 for i=2:height(M)
