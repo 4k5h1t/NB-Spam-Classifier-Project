@@ -1,5 +1,6 @@
 # Naive Bayes for spam filtering  
-Sem 2 Maths Project
+Sem 2 Maths Project  
+Run bayesClassifier.m in MATLAB
 
 ### Question 1:  
 
