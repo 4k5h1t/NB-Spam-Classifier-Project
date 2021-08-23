@@ -1,2 +1,2 @@
-# Filtering Spam E-mails using a NAive Bayes Classifier
+# Filtering Spam E-mails using a Naive Bayes Classifier
 
