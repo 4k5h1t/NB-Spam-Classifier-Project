@@ -22,6 +22,7 @@ Employing proper prior and effective processing and lemmatization helps in impro
 - Akshit Sudheer Kumar (Repository Maintainer)
 - Aby Stalin
 - Akhbar Sha
+- Shrish Nandakumar
 
 ## Deployment Details
 This project uses MATLAB as the development platform.
