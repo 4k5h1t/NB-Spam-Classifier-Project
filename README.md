@@ -18,5 +18,10 @@ and
 Comparing between the values for the mail to be spam or ham, we reach at the conclusion. 
 Employing proper prior and effective processing and lemmatization helps in improving the accuracy of naive bayesian spam filtering.
 
+## Contributors
+- Akshit Sudheer Kumar (Repository Maintainer)
+- Aby Stalin
+- Akhbar Sha
+
 ## Deployment Details
 This project uses MATLAB as the development platform.
